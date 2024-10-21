@@ -5,7 +5,7 @@ module.exports = {
     author: "Elohime",
     countDown: 5,
     role: 1,
-    shortDescription: "Enable😼 or disable🙁 antiout",
+    shortdescription:,
     longDescription: "",
     category: "boxchat",
     guide: "{pn} {{[on | off]}}",
