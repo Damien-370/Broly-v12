@@ -11,7 +11,7 @@ module.exports = {
     version: "2.0",
     author: "Kshitiz",
     role: 0,
-    shortDescription: "Play quiz",
+    shortdescription "",
     longDescription: "Play a quiz based on different categories",
     category: "fun",
     guide: {
