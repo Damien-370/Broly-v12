@@ -8,7 +8,7 @@ module.exports = {
     author: "kazu.kinoshita",
     countDown: 30,
     role: 2,
-    shortDescription: "Check system speed",
+    shortDescription: "",
     longDescription: "Check system speed",
     category: "owner",
     guide: "{pn}"
