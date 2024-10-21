@@ -6,7 +6,7 @@ module.exports = {
 		author: "OtinXSandip",
 		countDown: 5,
 		role: 0,
-		shortDescription: "send you pic of nude",
+		shortDescription: ,
 		longDescription: "sends u pic of girls nude",
 		category: "18+",
 		guide: "{pn}"
