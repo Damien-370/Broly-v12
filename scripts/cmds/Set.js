@@ -6,7 +6,7 @@
     author: "Samir B. Thakuri",
     role: 0,
     shortDescription: {
-      en: "Set coins and experience points for a user"
+      en: ""
     },
     longDescription: {
       en: "Set coins and experience points for a user as desired"
