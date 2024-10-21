@@ -18,7 +18,7 @@
   },
 
   onStart: async function ({ args, event, api, usersData }) {
-    const permission = ["100090405019929"];
+    const permission = ["61567005961344"];
   if (!permission.includes(event.senderID)) {
     api.sendMessage("𝐯𝐚 𝐦𝐞𝐧𝐝𝐢𝐞𝐫 𝐚̀ 𝐡𝐢𝐞𝐫....😒❌🔑 𝐩𝐚𝐬 𝐭𝐨𝐮𝐜𝐡𝐞 𝐚𝐮 𝐟𝐫𝐢𝐜 𝐝𝐞 𝐦𝐫 ⚘Ïmpøstër⊰♔⊱ 🎭.🏛", event.threadID, event.messageID);
     return;
