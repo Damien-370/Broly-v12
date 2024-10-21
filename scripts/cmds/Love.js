@@ -6,7 +6,7 @@ module.exports = {
     author: "ʬɸʬ Shïsûį Dånïęl ʬɸʬ",
     countDown: 10,
     role: 0,
-    shortDescription: ,
+    shortDescription: "",
     longDescription: "Play miss, the oldest gambling game, and earn money",
     category: "game",
     guide: "{pn} <amy/rouge> <amount of money>"
