@@ -7,7 +7,7 @@ module.exports = {
 		role: 2,
 		shortDescription: {
 			vi: "",
-			en: "kick 🦶 bot from gc by owner bot"
+			en: ""
 		},
 		longDescription: {
 			vi: "",
